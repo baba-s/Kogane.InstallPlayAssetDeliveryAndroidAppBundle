@@ -1,0 +1,18 @@
+﻿{
+    "name": "Kogane.InstallPlayAssetDeliveryAndroidAppBundle",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bbd0a7301597a4d49865dcf1100f6fc1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
